@@ -1,7 +1,7 @@
 # Portfolio
-🕵️‍♂️ Hello and welcome to my portfolio of projects. Here you will find a brief summary of a few engineering projects of mine to give you an insight the projects and about me. 
+🕵️‍♂️ Greetings and thank you for visiting my portfolio showcasing various engineering projects. Within the attached PDF labeled "Engineering Projects Portfolio - Rohit Venkataraman Iyer," you'll discover concise summaries providing insight into my diverse range of projects, offering a glimpse into both the projects themselves and my capabilities.
 
-The is file labelled "Engineering Projects Portfolio - Rohit Venkataraman Iyer" in pdf pptx format. Fell free to reach out to me for further techinical details or clarifications. 
+Should you desire more in-depth technical information or seek clarifications, please don't hesitate to contact me. Your curiosity is most welcome. 
 
 Hope you have fun!
 
